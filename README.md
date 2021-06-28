@@ -1,2 +1,2 @@
-https://github.com/AzatAza/wildlife/index.html
+# https://AzatAza.github.io/wildlife/
 
